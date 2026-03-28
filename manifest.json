@@ -8,7 +8,7 @@
   "description": "Scopri ogni giorno il Santo celebrato dalla Chiesa.",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2903/2903541.png",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
